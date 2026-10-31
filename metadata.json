@@ -1,0 +1,6 @@
+{
+  "name": "AI Health Copilot Pro",
+  "description": "Production-grade clinical decision support and Type-2 diabetes risk stratification using ML pipelines, deterministic abnormal feature flagging, and agentic Gemini LLM clinical explanations with the ITDO framework.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
